@@ -50,11 +50,4 @@ public class ChatO extends JavaPlugin implements Listener {
         public void onDisable() {
             // Plugin shutdown logic
         }
-
-
-
-
-
-
-
 }
