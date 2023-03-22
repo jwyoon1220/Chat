@@ -2,3 +2,6 @@ name: ChatO
 version: '${version}'
 main: org.github.jwyoon1220.chat.ChatO
 api-version: 1.19
+commands:
+  chat:
+    description: 채팅부검
