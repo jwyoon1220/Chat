@@ -1,0 +1,4 @@
+name: ChatO
+version: '${version}'
+main: org.github.jwyoon1220.chat.ChatO
+api-version: 1.19
